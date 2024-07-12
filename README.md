@@ -6,7 +6,7 @@
 ```
 git clone https://github.com/SajidIbnNayeem/IpMap.git
 cd IpMap
-Python3 ipmap.py
+Python3 Ipmap.py
 ```
 # Installation in Termux
 
@@ -15,7 +15,7 @@ pkg install python
 pkg install git
 git clone https://github.com/SajidIbnNayeem/IpMap.git
 cd IpMap
-Python ipmap.p
+Python Ipmap.p
 ```
 # Features
 <p>Get your address info</p>
@@ -30,4 +30,9 @@ Python ipmap.p
 
 # Screenshots
 <li>Kali Linux</li>
+
 ![ipmap](https://github.com/user-attachments/assets/0543f8ae-ca02-4fd4-ace7-5a1d7039af7d)
+
+<li>Termux</li>
+
+![ipmap termux](https://github.com/user-attachments/assets/bb99c486-34e4-4ec0-8f11-239dbdeed8b2)
